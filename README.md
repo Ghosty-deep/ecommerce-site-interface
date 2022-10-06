@@ -29,7 +29,7 @@ Choose one or all 3, make a pull request for your work and wait for it to be mer
 - Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/fineanmol/hacktoberfest.git
+git clone https://github.com/Ghosty-deep/Game-deployement.git
 ```
 
 - Create a branch
