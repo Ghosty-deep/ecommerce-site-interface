@@ -1,0 +1,38 @@
+<script type="application/ld+json">
+	        {
+	        	"@context" : "https://schema.org",
+	            "@type" : "Organization",
+	            "Name" : "Myntra",
+	            "URL" : "https://www.myntra.com",
+	            "contactPoint" : [{
+	            	"@type" : "ContactPoint",
+	            	"telephone" : "+91-80-61561999",
+	            	"contactType" : "Customer Service"
+	            }],
+	            "logo" : "https://constant.myntassets.com/web/assets/img/logo_2021.png",
+	            "sameAs" : [
+	            	"https://www.facebook.com/myntra",
+	            	"https://twitter.com/myntra",
+	            	"https://plus.google.com/+myntra",
+	            	"https://www.instagram.com/myntra",
+	            	"https://www.youtube.com/user/myntradotcom"
+	            ]
+	        }
+	    </script>
+    
+		
+		
+		
+		<script type="application/ld+json">
+			{
+				"@context" : "https://schema.org",
+				"@type" : "WebSite",
+				"url" : "https://www.myntra.com/",
+				"potentialAction" : {
+					"@type" : "SearchAction",
+					"target" : "https://www.myntra.com/{search_term_string}",
+					"query-input" : "required name=search_term_string"
+				}
+			}
+		</script>
+	
